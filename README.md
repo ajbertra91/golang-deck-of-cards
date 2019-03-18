@@ -14,7 +14,7 @@
 `newDeck()`
 `newDeckFromFile("nameOfFile")`
 `deal(deck, card_in_hand)`
-#### REceiver Functions
+#### Receiver Functions
 `d.print()`
 `d.toString()`
 `d.saveToFile()`
