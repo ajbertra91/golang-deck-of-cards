@@ -17,5 +17,5 @@
 #### Receiver Functions
 `d.print()`
 `d.toString()`
-`d.saveToFile()`
+`d.saveToFile("nameOfFile")`
 `d.shuffle()`
