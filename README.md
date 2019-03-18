@@ -9,3 +9,13 @@
 
 ### Run tests
 `go test`
+
+#### Functions
+`newDeck()`
+`newDeckFromFile("nameOfFile")`
+`deal(deck, card_in_hand)`
+#### REceiver Functions
+`d.print()`
+`d.toString()`
+`d.saveToFile()`
+`d.shuffle()`
